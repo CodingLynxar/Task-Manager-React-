@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://github.com/jithesh23/Task-Manger-React.git",
+  "homepage": "https://github.com/CodingLynxar/Task-Manager-React-.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
